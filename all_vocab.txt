@@ -1,0 +1,1223 @@
+0|yellow_fevervaccine
+1|imogam_rabies
+2|hepatitis_a_hepatitis_b
+3|diphtheria_toxoid_pertussis_ipv_(quatro_virelon)
+4|rotavirus_vaccine_live_oral
+5|quadracel
+6|fluzone intradermal
+7|novartis_vaccines_and_diagnostics_gmbh
+8|medeva_pharma_limited
+9|wyeth_llc
+10|measles_rubella_mumps_vaircella_vaccine
+11|rimantadine
+12|emergent_product_development_gaithersburg
+13|teva_pharmaceutical_ltd
+14|measles_rubella
+15|fsme_immun_(no_brand_name)
+16|merck_gmbh
+17|sanofi_pasteur_inc_(for_fluzone_high_dose_and_fluzone_intradermal_only)
+18|measles_mumps_rubellavaccine
+19|tdvax
+20|YF Vax
+21|Trumenba
+22|measles_rubella_vaccine
+23|protein_sciences_corporation
+24|biotest_pharma
+25|hib_polysaccharide_vaccine
+26|YF_Vax
+27|fluzone_intradermal_quadrivalent
+28|trumenba
+29|north_american_vaccine_inc
+30|biotest_pharmaceuticals
+31|sanofi_pasteur_ltd
+32|north_american_vaccines
+33|grifols
+34|merck_sharpe_and_dohme_corp
+35|tick_borne_enceph_vaccine
+36|pfizer_wyeth
+37|human_papillomavirus_hpv
+38|flucelvax
+39|sclavo_ltd
+40|M-M-R II
+41|measles_rubella_mumps_vaccine
+42|meningococcal
+43|hexavac
+44|mmrii
+45|hib polysaccharide_vaccine
+46|diphtheria_tetanus_pertussis
+47|smithkline_beecham
+48|Menveo
+49|influenza_a_(h1n1)_2009_monovalent_vaccine_(id_biomedical_corporation_of_quebec)
+50|rabies_immune_globulin_solution_for_intramuscular_injection
+51|fluzone high_dose quadrivalent
+52|bacillus_of_calmette_and_guerin
+53|tubersol
+54|janssen_ag
+55|hib_prp_omp
+56|pneumococcal_vaccine
+57|oseltamivir phosphate
+58|flu3
+59|infanrix hexa
+60|gardasil_9
+61|dtaphepbip
+62|msp_vaccine
+63|heplisav_b
+64|quatro virelon
+65|acel-imune
+66|recombivax hb
+67|fluzonehigh_dose
+68|rabavert_rabies_vaccine
+69|anthraxvaccine
+70|dynavax_technology_corporation
+71|hep_a_hep_b_vaccine
+72|dtpipv
+73|ebola_zaire_vaccine_live
+74|human_papillomavirus_(hpv)_vaccine
+75|meningococcal_(no_brand_name)
+76|menb_fhbp
+77|lyme_lymerix
+78|human_papillomavirus_(hpv)
+79|hepa_vaccine
+80|fluimune
+81|dtp_vaccine
+82|mono_vacc
+83|diphtheria_tetanus_pertussis_hepatitis_b_polio_vaccine
+84|sanofi_pasteur_inc
+85|rotavirus_vaccine_live_oral_suspension
+86|merck_sharp_dohme_corporation
+87|flushield
+88|YFVax
+89|burroughs_wellcome
+90|catalent_pharma
+91|merck_&_co_inc
+92|protein_sciences
+93|h1n1_(monovalent)_(gsk)
+94|flun(h1n1)
+95|dtaph
+96|bayer_ltd
+97|Ipol
+98|dp_ipv_vaccine
+99|influenza_a_h1n1_intranasal_vaccine
+100|lederle
+101|Tenivac
+102|dtp_ipv_act_hib_(no_brand_name)
+103|novartis_vaccines_and_diagnostics_inc
+104|csl
+105|emergent_biodefense_operations_lansing
+106|M M R II
+107|diphtheria_and_tetanus_toxoids
+108|merck_sharp_and_dohme
+109|dt_ipv_hib_hepb_vaccine
+110|catalent_pharma_solution
+111|human_papillomavirus_quadrivalent_(types_6_11_16_18)_vaccine_recombinant
+112|human_papillomavirus_hpv_vaccine
+113|connaught_laboratories_ltd
+114|engerix_b
+115|prevnar13
+116|dtap_ipv_vaccine
+117|dtap_hib_vaccine
+118|zoster_vaccine_recombinant_adjuvanted_suspension_for_intramuscular_injection
+119|paxvax_inc
+120|fluenz
+121|hyperrab
+122|adenovirus_types_4_&_7_live_oral_vaccine
+123|influenza_virus_vaccine_h5n1_(for_national_stockpile)
+124|Rotarix
+125|Shingrix
+126|flulaval
+127|ppsv23
+128|dtpphib
+129|baxter_healthcare
+130|influenza_virus_vaccine
+131|acam2000
+132|tetanus_toxoid_adsorbed_vaccine
+133|bcg_vaccine
+134|rotavirus_rotateq
+135|influenza_virus_vaccine_for_intramuscular_injection
+136|hepatitis_a
+137|gamastan
+138|flu vaccine
+139|influenza_a_h1n1_monovalent_vaccine
+140|moderna_llc
+141|dtp_hib_(tetramune)
+142|tetanus_diphtheria_(adult_formulation)
+143|dtp_hepb_vaccine
+144|premalignant_ano_genital_lesions_cervical_cancer_anal_cancer
+145|haemophilus_influenzaetype_b_(hib)_vaccine
+146|flumist
+147|plaguevaccine
+148|ipol
+149|human papillomavirus bivalent vaccine
+150|anthrax_vaccine_adsorbed
+151|glaxosmithkline_biologicals_plc
+152|fluarix
+153|hepatitis_a_vaccine
+154|varicella_varivax
+155|mcv4_menacwy_crm
+156|fluad_quadrivalent
+157|teva_pharmas
+158|m-m-rii
+159|pneumococcal_vaccine_polyvalent
+160|boostrix
+161|ActHIB
+162|grifols_therapeutics
+163|catalent_pharma_solutions_llc
+164|seqirus_pty_ltd
+165|Recombivax HB
+166|bsi_inc
+167|hib_hepb_vaccine
+168|acetone_inactivated_dried
+169|measles_rubella_(mr_vax_ii)
+170|prevnar
+171|miles_laboratories_co
+172|medimmune_co
+173|siklos
+174|EngerixB
+175|tiv_dresden
+176|bcgvaccine
+177|merck_sharp_dohme_corp
+178|jynneos
+179|prevnar_20
+180|flu_vaccine
+181|hyperhepb
+182|typhoid_vi_polysaccharide_(typhim_vi)
+183|j-vax
+184|influenza_vaccine_adjuvanted
+185|typhoid vaccine
+186|hep_b_vaccine
+187|diphtheria and tetanus toxoids and acellular pertussis vaccine
+188|tetanus_toxoid_adsorbed
+189|hepatitis b vaccine (recombinant)
+190|pneumo_(pneumovax)
+191|hepb_vaccine
+192|measles_mumps_rubella_varicella_vaccine_live
+193|Flucelvax
+194|rubellavaccine
+195|varzos
+196|burroughs_wellcome_plc
+197|bayer_gmbh
+198|bsi_ag
+199|adenovirus_types_4_&_7_live_oral_(no_brand_name)
+200|flu4
+201|measles_rubella_mumps_vaircella
+202|sclerosis
+203|valneva_austria
+204|meningococcal_(groups_a_c_y_w)_conjugate_vaccine
+205|pedvaxhib
+206|influenza_a_vaccine
+207|seqirus_inc
+208|smithkline_beecham_corp
+209|dtap_ipv_hepb_hib_(infanrix_hexa)
+210|meningococcal_conjugate_hib_(menitorix)
+211|td_pertussis_(no_brand_name)
+212|pfizer_corp
+213|pfizer_sas
+214|hepa_hepb
+215|merck_sharpe_dohme
+216|mmr_ii
+217|flu imune
+218|moderna_inc
+219|fluzone_highdose
+220|gsk_vaccines
+221|zoster_vaccine_recombinant_adjuvanted
+222|rubella_and_mumps_virus_vaccine_live
+223|influenza_h1n1_vaccine
+224|flulaval quadrivalent
+225|rabies_vaccine
+226|tetanus_toxoid_(no_brand_name)
+227|novartis_vaccines_and_diagnostics_limited
+228|meruvax_i
+229|Flublok
+230|nabi-hb
+231|bcg_live
+232|fluvaccine
+233|wyeth_pharmaceutical
+234|catalent_pharma_solutions_ltd
+235|seqirus
+236|cervical_cancer_vaccine
+237|fluzone_high_dose
+238|flur3
+239|vivotif oral
+240|measles virus vaccine live
+241|dengue tetravalent_vaccine
+242|influenza virus vaccine for intramuscular injection
+243|pediarix
+244|baxter_healthcares
+245|hepab
+246|glaxosmithkline_corp
+247|meningococcal_groups_c_and_y_and_haemophilus_b_tetanus_toxoid_conjugate_vaccine
+248|ixiaro
+249|pneumococcal
+250|td
+251|diphtheriaandtetanus
+252|hep b_vaccine
+253|vaxchora
+254|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_adsorbed_hepatitis_b_(recombinant)_and_inactivated_poliovirus_vaccine_combined
+255|stamaril
+256|connaught
+257|haemophilus_b_conjugate_vaccine_meningococcal_protein_conjugate
+258|pneumococcal 7-valent conjugate
+259|diphtheria_tetanus_pertussis_polio_haemophilus_influenzaetype_b_vaccine
+260|anthrax_vaccine
+261|combined_diphtheria_tetanus_toxoids_acellular_pertussis_hepatitis_b_inactivated_poliomyelitis_adsorbed_conjugated_haemophilus_influenzae
+262|mumpsvax
+263|mono vacc
+264|bayer_sas
+265|jevax
+266|tetanus toxoid_vaccine
+267|influenza_a_(h1n1)_2009_monovalent_vaccine_(novartis_vaccines_and_diagnostics_limited)
+268|dtpvaccine
+269|meningococcal_vaccine
+270|vaccine_not_specified_(no_brand_name)
+271|hbpv
+272|zoster_live_vaccine
+273|diphtheria_tetanus_toxoids_and_acellular_pertussis_adsorbed_hepatitis_b_and_inactivated_poliovirus_vaccine
+274|covid19_(covid19_(moderna))
+275|Fluad
+276|Heplisav-B
+277|priorix
+278|mumps_rubella
+279|hibvaccine
+280|forest_pharma
+281|fluc3
+282|lyme_vaccine
+283|csl_ltd
+284|typhoidvaccine
+285|pneumovax_23
+286|Varivax
+287|teva_pharmaceuticals_inc
+288|fluenztetra
+289|dengue
+290|mnqhib
+291|ACAM2000
+292|burroughs_wellcome_co
+293|measles_mumps_vaccine
+294|Fluzone HighDose
+295|baytet
+296|chronic_myeloid_leukemia_ovarian_cancer
+297|covid19
+298|mumps_rubella_(foreign)
+299|infanrix tetra
+300|pneumococcal_13_valent_conjugate_vaccine_(diphtheria_crm
+301|poliovirus_vaccine_inactivated_(human_diploid_cell)
+302|fluzone
+303|zoster
+304|anthrax_biothrax
+305|adenovirus_vaccine
+306|meningococcal_(groups_a_c_y_and_w_135)_oligosaccharide_diphtheria_crm197
+307|flu_imune
+308|dtp_ipv_vaccine
+309|organon_teknika_ltd
+310|mass_pub_hlth_biol_lab
+311|infanrix_penta
+312|rabie_vax
+313|meningococcal_b_bexsero
+314|dpipv
+315|measles_mumps_rubella_varicella_vaccine
+316|tick_borne_enceph_(no_brand_name)
+317|sanofi_pasteur
+318|wyeth_pharmaceutical_inc
+319|typhoid_vi_polysaccharide_vaccine
+320|dengue_tetravalent_(dengvaxia)
+321|bayhepb
+322|genhevacb
+323|fluzone high dose quadrivalent
+324|fluc4
+325|polio_virus_oral_vaccine
+326|rotashield
+327|influenza_seasonal_fluzone
+328|hep_a_typ_vaccine
+329|tenivac
+330|pnc13
+331|medimmune_limited_liability_company
+332|influenza_virus_vaccine_surface_antigen_inactivated_adjuvanted_with_mf59c_1
+333|diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine
+334|Pneumovax 23
+335|rv5
+336|dtp
+337|hib_polysaccharide_(hibimune)
+338|poliovirus vaccine inactivated
+339|flumist_18_19
+340|hiberix
+341|varivax
+342|meruvax_ii
+343|hepatitis_b_vaccine_solution_for_intramuscular_injection
+344|infanrix penta
+345|hpv_vaccine
+346|tetanus_diphtheria
+347|diphtheria_and_tetanus
+348|flucelvax_quadrivalent
+349|afluria_quadrivalent
+350|dt_adsorbed_(no_brand_name)
+351|glaxosmithkline_inc
+352|meningococcal_polysaccharide_vaccine_groups_a_c_y_w_135_combined
+353|fluzone intradermal quadrivalent
+354|dtap_ipv_hib
+355|recombivax
+356|pneumococcal vaccine polyvalent
+357|dtp_ipv_act_hib_vaccine
+358|hepatitis_b_vaccine_recombinant
+359|pedvax hib
+360|ipv
+361|menactra
+362|infanrixpenta
+363|varcel
+364|hepatitis_b
+365|organon_teknika_corp_llc
+366|td_adsorbed_(no_brand_name)
+367|organon_teknika_co
+368|grifols_therapeutics_inc
+369|meningococcal_(groups_a_c_y_and_w_135)_oligosaccharide_diphtheria_crm197_conjugate_vaccine
+370|TyphimVi
+371|mumps_virus_vaccine_live
+372|tice
+373|wyeth_pharmaceuticals
+374|quatro_virelon
+375|protein_science
+376|mumpsvax_ii
+377|vivotif
+378|summer_spring_enceph_(no_brand_name)
+379|proquad
+380|tri_immunol
+381|menomune_a_c_y_w_135
+382|poliovax
+383|flumist_quadrivalent
+384|diphtheria_tetanus_pertussis_vaccine
+385|Quadracel
+386|protein_science_corporation
+387|je-vax
+388|Engerix_B
+389|Heplisav B
+390|je_vax
+391|ProQuad
+392|acel_imune
+393|haemophilus_b_conjugate_and_hepatitis_b_vaccine
+394|orimune
+395|Pneumovax23
+396|hib_vaccine
+397|meningococcal_(groups_a_c_y_and_w_135)_polysaccharide_diphtheria_toxoid_conjugate_vaccine
+398|dengvaxia
+399|diphtheria_and_tetanus_toxoid_adsorbed
+400|Fluzone High_Dose
+401|cholera_vaccine_live_oral
+402|glaxosmithkline_ltd
+403|virivac
+404|h1n1_(monovalent)_(medimmune)
+405|meningococcal_conjugate_hib_vaccine
+406|diphtheria_tetanus_vaccine
+407|pneumovax23
+408|dapracel
+409|pneumovaccine
+410|dtp_ipv_(no_brand_name)
+411|flublok quadrivalent
+412|mmr
+413|infanrix_hexa
+414|miles_laboratories_inc
+415|oral_poliovirus_vaccine
+416|paxvax_bermuda_ltd
+417|Hiberix
+418|smithkline_beecham_biologicals
+419|covid19_(covid19_(janssen)_vaccine
+420|miles_laboratory_inc
+421|biotest
+422|human_papillomavirus_9_valent_vaccine_recombinant
+423|tuberculosis_vaccine
+424|wyeth_corp
+425|rabies_imovax
+426|tetanus toxoid adsorbed
+427|burroughs_wellcome_ltd
+428|dtap_hepb_ipv
+429|medimmune_corp
+430|nabihb
+431|hepagamb
+432|dtap_ipv_hib_pentacel
+433|agriflu
+434|pfizer_ltd
+435|premalignant_ano_genital_lesions_cervical_cancer_anal_cancer_vaccine
+436|pneumococcal 7_valent conjugate
+437|hpv4
+438|meningococcal_polysaccharide_vaccine
+439|hepatyrix
+440|measles_(no_brand_name)
+441|organon_teknika_corp
+442|zoster_live_(zostavax)
+443|seqirus_vaccines
+444|m_m_r_ii
+445|dtap_ipv_kinrix
+446|Adacel
+447|pneumococcal_20_valent_conjugate_vaccine
+448|synflorix
+449|yellow_fever_vaccine
+450|hep_a_typ_(hepatyrix)
+451|sclavo
+452|ttox
+453|wyeth_inc
+454|influenzavaccine
+455|forest
+456|Engerix B
+457|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_adsorbed_inactivated_poliovirus_haemophilus_b_conjugate_[meningococcal_protein_conjugate]_and_hepatitis_b_[recombinant]_vaccine
+458|poliovirus_vaccine_inactivated_(monkey_kidney_cell)
+459|flua4
+460|merck_co_inc
+461|flun3
+462|medeva_pharma_ltd
+463|Havrix
+464|acthib
+465|merck
+466|influenza_a_influenza_b
+467|merck_sharp_and_dohme_corp
+468|merck_&_co
+469|influenza_a_(h5n1)_virus_monovalent_vaccine_adjuvanted
+470|h1n1_(monovalent)_(csl)
+471|diphtheria crm197 protein conjugate
+472|tdap_vaccine
+473|menhibrix
+474|greer_laboratory
+475|pfizer_biontech
+476|flublok
+477|tevax
+478|meningococcal_c_&_y_hib_vaccine
+479|teva_pharmaceutical_co
+480|human_papillomavirus_bivalent_(types_16_and_18)_vaccine_recombinant
+481|meruvaxii
+482|vaxelis
+483|bayhep_b
+484|ervebo
+485|north_american_vaccine
+486|Infanrix
+487|gsk_vaccines_gmbh
+488|seqirus_vaccines_limited
+489|glaxosmithkline_plc
+490|smallpox_and_monkeypox_vaccine_live_non_replicating
+491|dtpihi
+492|fluzonequadrivalent
+493|influenza_a_(h1n1)_2009_monovalent_vaccine_(csl_limited)
+494|shingrix
+495|hpvx
+496|valneva
+497|m r vax
+498|typhoid vi polysaccharide_vaccine
+499|influenza_a
+500|j vax
+501|measles_mumps_rubella_and_varicella_virus_vaccine_live
+502|intercell_ag
+503|bcg_tice
+504|infanrixhexa
+505|dtap_ipv_hepb_hib_vaccine
+506|aventis_pasteur_inc
+507|novartis_vaccines_and_diagnostics_ag
+508|daptacel
+509|varicella virus vaccine live
+510|yfvax
+511|typhim_vi
+512|dtap_hepb_ipv_pediarix
+513|Gardasil 9
+514|teva
+515|tetanus_diphtheria_pertussis
+516|tetanustoxoid
+517|hibtiter
+518|rubella virus vaccine live
+519|recombivaxhb
+520|pnu_imune
+521|herpes_zoster_vaccine
+522|h1n1_(monovalent)_(sanofi)
+523|m-m-r ii
+524|infanrixtetra
+525|imovax
+526|gardasil
+527|pfizer_gmbh
+528|rotateq
+529|plague
+530|forest_pharmaceuticals_inc
+531|BioThrax
+532|RotaTeq
+533|meningococcal_group_b_vaccine
+534|rabies
+535|diphtheria_toxoid_pertussis_ipv_vaccine
+536|fluzone high-dose quadrivalent
+537|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_vaccine_adsorbed_inactivated_poliovirus_haemophilus_b_conjugate_and_hepatitis_b_vaccine
+538|Bexsero
+539|diphtheriaandtetanustoxoids
+540|covid19_(covid19_(janssen))
+541|grifols_therapeutics_llc
+542|infanrixquinta
+543|mono-vacc
+544|qiv_dresden
+545|engerixb
+546|Fluzone High-Dose
+547|poliovirus_vaccine_inactivated
+548|Typhim Vi
+549|cholera_vaccine_live_for_oral_administration
+550|hepagam b
+551|Adenovirus
+552|j_vax
+553|novartis_vaccines_and_diagnostic
+554|fluarix quadrivalent
+555|typhimvi
+556|japanese encephalitis virus vaccine inactivated
+557|pertussis_(no_brand_name)
+558|Twinrix
+559|dp_ipv_(no_brand_name)
+560|covid19_(covid19_(pfizer_biontech)_vaccine
+561|wyeth
+562|tetanus toxoid conjugate
+563|baxter_healthcare_corp
+564|medeva
+565|lederle_praxsis
+566|afluria
+567|typhoid_vaccine
+568|flun4
+569|barr
+570|dengue_tetravalent_vaccine_live
+571|rabavert
+572|evans_vaccines_ltd
+573|flux(h1n1)
+574|measles_virus_vaccine_live
+575|biavax
+576|glaxosmithkline
+577|merck_and_co
+578|pnu-imune
+579|meningococcal_conjugate_menactra
+580|pneumovax®_23
+581|mycobax
+582|Vaxchora
+583|fluad quadrivalent
+584|diphtheria and tetanus
+585|liquid_pedvaxhib
+586|burroughs_wellcome_inc
+587|csl_limiteds
+588|h1n1_(monovalent)_(novartis)
+589|hepatyp
+590|hepatitis_b_vaccine_(recombinant)
+591|fluvirin
+592|fluzone_quadrivalent
+593|hib_hep_b_(comvax)
+594|aden_4_7
+595|diphtheria_toxoids_(no_brand_name)
+596|yellow fever_vaccine
+597|diphtheria_tetanus
+598|dtap_tripedia
+599|seqirus_vaccines_ltd
+600|infanrix
+601|influenza_seasonal_vaccine
+602|measles
+603|decavac
+604|mr_vaxii
+605|diphtheria_and_tetanus_toxoids_and_acellular_pertussis
+606|afluria quadrivalent
+607|dt_ipv_hib_hepb_(no_brand_name)
+608|prohibit
+609|hpv9
+610|fsme-immun.vaccine
+611|polysaccharide diphtheria toxoid conjugate vaccine
+612|measles_mumps_and_rubella_virus_vaccine_live
+613|bayer_llc
+614|diphtheria_tetanus_acellular_pertussis_vaccine
+615|hib_(prp_omp)
+616|measles_mumps_rubella_vaccine
+617|emergent_biodefense_operations_lansing_llc
+618|fluzone high-dose
+619|wyeth_pharmaceuticals_inc
+620|tetramune
+621|td adsorbed_vaccine
+622|medimmune_llc
+623|fluogen
+624|bayer_corp
+625|tetanus_toxoid
+626|measles_mumps_rubella
+627|janssen_inc
+628|tetanus_and_diphtheria_toxoids_adsorbed_for_adult_use
+629|tetanus_diphtheria_vaccine
+630|typhoid_vaccine_live_oral_ty21a
+631|riv4
+632|diphtheriaandtetanustoxoidsandacellularpertussisvaccine
+633|organon_teknika_inc
+634|Menactra
+635|rotavirus_vaccine_live_oral_pentavalent
+636|diphtheria_tetanus_acellular_pertussis_hepatitis_b_poliomyelitis_haemophilus_influenzae_vaccine
+637|glaxosmithkline_llc
+638|pasteur_merieux_inst
+639|glaxosmithkline_biologicals
+640|zostervaccine
+641|parke_davis_gmbh
+642|meruvax ii
+643|pfizer_plc
+644|smallpoxvaccine
+645|omnihib
+646|imovax_rabies
+647|oseltamivir_phosphate
+648|emergent_product_development_gaithersburg_inc
+649|smallpox_vaccine
+650|influenza_a_(h1n1)_2009_monovalent_vaccine_(medimmune_llc)
+651|pertussis_vaccine
+652|typhoid vi polysaccharide vaccine
+653|heplisavb
+654|fluzone high dose
+655|mumps
+656|bayer_inc
+657|flu-imune
+658|csl_limited
+659|tetanus_and_diphtheria_toxoids_adsorbed
+660|janssen_llc
+661|afluria_afluria_southern_hemisphere
+662|yellowfevervaccine
+663|dtp_hib_vaccine
+664|hyperhep_b
+665|triimmunol
+666|forest_pharmaceutical
+667|kedrab
+668|rabies_immune_globulin_human
+669|measles_rubella_mumps
+670|chol
+671|merck_shark_&_dohme_corp
+672|MMRII
+673|diphtheria_tetanus_pertussis_polio_vaccine
+674|mumps virus vaccine live
+675|cholera
+676|YF-Vax
+677|parke_davis
+678|HeplisavB
+679|flu(h1n1)
+680|catalent_pharma_solutions
+681|jvax
+682|haemophilus_b_conjugate_vaccine
+683|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_vaccine_adsorbed_usp
+684|medimmune_vaccines
+685|dtap_hib_(no_brand_name)
+686|tecovirimat_capsules
+687|influenza_a_(h1n1)_2009_monovalent_vaccine
+688|mmrv
+689|yellow_fever_yf_vax
+690|organon_teknika
+691|ipol_poliovirus_vaccine_inactivated_(monkey_kidney_cell)
+692|tdap_ipv_(foreign)
+693|menb
+694|lederle_laboratory
+695|td_adsorbed_vaccine
+696|miles_laboratories_ltd
+697|covid19_(covid19_(pfizer_biontech))
+698|novartis_vaccines_&_diagnostics
+699|recombivax_hb
+700|bacillus of calmette and guerin
+701|pneumococcal 7 valent conjugate
+702|barr_labs
+703|bayer
+704|teva_pharmaceuticals_ltd
+705|td-rix
+706|hepatitis_b_vaccine_(recombinant)_adjuvanted
+707|iiv4
+708|hbhepb
+709|polio_virus_inact_vaccine
+710|Fluzone High Dose
+711|tice_bcg
+712|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_vaccine
+713|Afluria
+714|ssev
+715|cholera_vaxchora
+716|barr_labs_inc
+717|pnuimune
+718|heaptitis_b
+719|audenz
+720|yf_vax
+721|haemophilus_b_conjugate_vaccine_tetanus_toxoid_conjugate
+722|janssen_ltd
+723|chronic_myeloid_leukemia_ovarian_cancer_vaccine
+724|oral poliovirus vaccine
+725|prevnar 13
+726|diphtheria_toxoids_vaccine
+727|dtap
+728|lederle_laboratories_inc
+729|smallpox_dryvax
+730|hep_a_hep_b_(twinrix)
+731|diphtheria toxoids_vaccine
+732|covid19_(covid19_(moderna)_vaccine
+733|merck_ag
+734|bayhep b
+735|flucelvax quadrivalent
+736|RecombivaxHB
+737|dryvax
+738|Imovax Rabies
+739|vivotif_oral
+740|kinrix
+741|catalent
+742|mumpsvax_i
+743|hepb
+744|hep_a_vaccine
+745|heaptitis_b_vaccine
+746|Prevnar 13
+747|pasteur_merieux_connaught
+748|dtp_hep_b_(no_brand_name)
+749|certiva
+750|heaptitis_a_vaccine
+751|adenovirus_(type_7_no_brand_name)
+752|mcv4_menacwy_d
+753|moderna
+754|merck_sharp_dohme
+755|measles_mumps_rubella_varicella
+756|dynavax_technologies_corporations
+757|japaneseencephalitisvaccine
+758|menomune
+759|bsi_ltd
+760|dynavax_technologiescorporation
+761|heplisav b
+762|pcv13
+763|sanofi_pasteur_ltd_license_#1726
+764|glaxosmithkline_biologicals_sa_corp
+765|pentacel
+766|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_adsorbed_inactivated_poliovirus_and_haemophilus_b_conjugate_(tetanus_toxoid_conjugate)_vaccine
+767|fluzone_fluzone_high_dose_and_fluzone_intradermal
+768|teva_pharma
+769|imogamrabies
+770|seqirus_gmbh
+771|engerix b
+772|hepatitis_a_inactivated_&_hepatitis_b_(recombinant)_vaccine
+773|gardasil 9
+774|hepatitis b vaccine recombinant
+775|infanrix quinta
+776|meningococcal_conjugate_vaccine
+777|meningococcalvaccine
+778|choleravaccine
+779|rotavirusvaccine
+780|menitorix
+781|acelimune
+782|medimmune_ltd
+783|cervical_cancer
+784|dtp_(tri_immunol)
+785|dtap_vaccine
+786|miles_laboratory
+787|tri immunol
+788|janssen_gmbh
+789|yf
+790|protein_sciences_corporation_inc
+791|flulaval_quadrivalent
+792|parke_davis_ltd
+793|medimmune
+794|smithkline_beecham_co
+795|merck_inc
+796|haemophilus b conjugate vaccine
+797|smallpox
+798|anthrax
+799|varicella
+800|fluenz tetra
+801|Boostrix
+802|tuberculosis
+803|9vhpv
+804|Pediarix
+805|dtap_ipv_hib_vaccine
+806|zoster live_vaccine
+807|catalent_pharma_solution_inc
+808|seqirus_ltd
+809|tpoxx
+810|tamiflu
+811|diphtheria and tetanus toxoids and acellular pertussis
+812|hib_(prp_t)
+813|meningococcal group b vaccine
+814|oralpoliovirusvaccine
+815|PedvaxHIB
+816|novartis_vaccines_and_diagnostics_ltd
+817|mmr_i
+818|genhevac b
+819|hep a_vaccine
+820|bexsero
+821|rabies_immune_globulin_(human)_solvent_detergent_treated
+822|summer_spring_enceph_vaccine
+823|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_vaccine_adsorbed
+824|Fluarix
+825|diphtheria_crm197_protein_conjugate
+826|lederle_laboratories
+827|lymerix
+828|polio_virus_inact_(poliovax)
+829|tetanus_diphtheria_pertussis_vaccine
+830|mrvax
+831|fingolimod capsules
+832|hep_b_engerix_b
+833|rabipur
+834|rabivac
+835|Engerix-B
+836|zoster vaccine live
+837|twinrix
+838|lipoprotein_outer_surface_a_vaccine
+839|FluLaval
+840|optaflu
+841|glaxosmithkline_gmbh
+842|measles_mumps_rubella_(mmr_ii)
+843|nabi hb
+844|typhoid
+845|iiv3
+846|yellow fever vaccine
+847|merck_sharp_&_dohme
+848|pnu imune
+849|dynavax
+850|fluarixquadrivalent
+851|novartis_vaccines_and_diagnostics
+852|hpv_gardasil
+853|MMR II
+854|diptheria_and_tetanus_toxoids_and_acellular_pertussis_adsorbed_and_inactivated_poliovirus_vaccine
+855|haemophilus_influenzae_type_b_meningococcal
+856|influenza_a_(h1n1)_2009_monovalent_vaccine_(sanofi_pasteur_inc_)
+857|mm_vax
+858|lymevaccine
+859|hyperhep b
+860|typhim vi
+861|fluenz_tetra
+862|pneumovax_23_pneumococcal_vaccine_polyvalent
+863|intercell
+864|rotarix
+865|tdap
+866|afluria_quadrivalent_2016
+867|aventis_pasteur
+868|tetracoq
+869|medimmune_inc
+870|glaxosmithkline_co
+871|polio
+872|diphtheria_tetanus_acellular_pertussis_heaptitis_b_polio
+873|sanofi_pasteur_sa
+874|cholera vaccine
+875|enzira
+876|berna_biotech_limited
+877|rubella_virus_vaccine_live
+878|id_biomedical_corporation_of_quebec
+879|addmedica
+880|cholera_vaccine
+881|paxvax_berna_gmbh
+882|paxvax_bermuda
+883|Daptacel
+884|diphtheria_tetanus_acellular_pertussis
+885|trihibit
+886|dynavax_technology
+887|pfizer_co_ltd
+888|merck_and_co_inc
+889|influenzavirusvaccine
+890|imogam rabies
+891|wyeth_co
+892|varicellavaccine
+893|japanese_encephalitis_vaccine
+894|anthrax_vaccine_adsorbed_emergent_biosolutions
+895|quadrivalent_human_papillomavirus_(types_6_11_16_18)_recombinant_vaccine
+896|pfizer_ag
+897|flublok_quadrivalent
+898|fluad
+899|mmri
+900|meningococcal conjugate_vaccine
+901|pfizer_llc
+902|diphtheria_tetanus_acellular_pertussis_hepatitis_b_poliomyelitis_haemophilus_influenzae
+903|berna_biotech
+904|zoster_zostavax
+905|influenza
+906|mumpsvaccine
+907|tdap_adacel
+908|FluzoneHigh-Dose
+909|tritanrix
+910|bsi_corp
+911|dt_ipv_(no_brand_name)
+912|RabAvert
+913|japanese_encephalitis_virus_vaccine_inactivated
+914|connaught_laboratories_inc
+915|yf vax
+916|afluria_quadrivalent_afluria_quadrivalent_southern_hemisphere
+917|rabiesvaccine
+918|anth
+919|hibimune
+920|flun_h1n1
+921|zoster_vaccine_live
+922|mumps_vaccine
+923|greer_laboratories_inc
+924|merck_sharpe_and_dohme
+925|fluzone quadrivalent
+926|M-M-RII
+927|hibv
+928|japanese_encephalitis_je_vax
+929|fluzone_high_dose_quadrivalent
+930|typhoid_live_oral_ty21a_vaccine
+931|diphtheria_and_tetanus_toxoids_and_acellular_pertussis_adsorbed_and_inactivated_poliovirus_vaccine
+932|Vivotif
+933|rubella_meruvax_ii
+934|paxvax
+935|gardasil9
+936|aden
+937|tetanus_toxoid_reduced_diphtheria_toxoid_and_acellular_pertussis_vaccine_adsorbed
+938|connaught_laboratory
+939|japanese_encephalitis
+940|baxter_healthcare_corporation
+941|menb_4c
+942|parke_davis_inc
+943|adacel
+944|greer_laboratories
+945|japanese encephalitis vaccine
+946|tetanus
+947|dtox
+948|adenovirus_type_4_and_type_7_vaccine_live_oral
+949|hydroxyurea_tablets_for_oral_use
+950|bayer_plc
+951|jev1
+952|rabies vaccine
+953|tiv quebec
+954|iiv3_iiv4
+955|heplisav-b
+956|biothrax
+957|dtap_ipv
+958|hepatitis_a_hepatitis_b_vaccine
+959|tuberculin_(mono_vaccine)
+960|tecovirimat capsules
+961|influenza_vaccine_live
+962|pandemic_flu_vaccine_(h5n1)
+963|influenza_a_h1n1_monovalent_intranasal_vaccine_live
+964|human_papillomavirus_bivalent_vaccine
+965|merck_co
+966|bsi
+967|menhib
+968|human_papillomavirus_9_valent_vaccine_recombinant_sterile_suspension_for_intramuscular_administration
+969|zoster_vaccine
+970|addmedica_sas
+971|sanofi_pasteur_limited
+972|rv1
+973|zostavax
+974|tetanus diphtheria_vaccine
+975|merck_corp
+976|pneumovax
+977|td_rix
+978|heaptitis_a
+979|bayer_ag
+980|berna
+981|hpvvaccine
+982|glaxosmithkline_sas
+983|dynavax_technologies_corp
+984|gilenya
+985|Heplisav_B
+986|vaccine_not_specified_vaccine
+987|fluarix_quadrivalent
+988|fluzonehighdosequadrivalent
+989|dynavax_technologies
+990|m_m_rii
+991|dynavax_technologies_corporation
+992|Gardasil9
+993|immune_globulin_(human)_for_injection
+994|mmr ii
+995|Pentacel
+996|plague_usp
+997|flublokquadrivalent
+998|rabies_vaccine_adsorbed
+999|haemophilus_influenzaetype_b_(hib)
+1000|tdap_ipv_vaccine
+1001|influenza_a_(h5n1)_monovalent_vaccine_adjuvanted
+1002|medeva_pharma
+1003|tetanus_toxoid_vaccine
+1004|flumist quadrivalent
+1005|dtphib
+1006|medimmune_plc
+1007|m-r-vax
+1008|hepatitis_b_immune_globulin_human
+1009|tetanus_diphtheria_(no_brand_name)
+1010|prevnar_13
+1011|hep_a_(havrix)
+1012|cciiv4
+1013|japanese encephalitis_vaccine
+1014|meningococcalpolysaccharidevaccine
+1015|wyeth_pharmaceuticals_llc
+1016|bayrab
+1017|infanrix_quinta
+1018|influenza vaccine live
+1019|smallpox_vaccinia_vaccine_live
+1020|pfizer
+1021|parkdale
+1022|aptevo_biotherapeutics_llc
+1023|rubella_vaccine
+1024|miles
+1025|pfizer_inc
+1026|m m r ii
+1027|merck_plc
+1028|m_m_r ii
+1029|pneumo_vaccine
+1030|teva_pharmaceuticals
+1031|FluMist
+1032|janssen_co
+1033|attenuvax
+1034|flu_h1n1
+1035|rotavirus_vaccine
+1036|menveo
+1037|influenza virus vaccine
+1038|greer
+1039|merck_co_ltd
+1040|hav_measles_vaccine
+1041|infanrix_tetra
+1042|influenza vaccine
+1043|Prevnar13
+1044|hpv2
+1045|measles_and_rubella_virus_vaccine_live
+1046|diphtheria_tetanus_acellular_pertussis_heaptitis_b_polio_vaccine
+1047|bayer_co
+1048|meningitec
+1049|pfizer_co
+1050|seqirus_pty
+1051|influenza_a_influenza_b_vaccine
+1052|smithkline_beecham_inc
+1053|fluzone high_dose
+1054|dtapipvhib
+1055|smithkline_beecham_plc
+1056|tiv_quebec
+1057|glaxosmithkline_ag
+1058|pneumovax 23
+1059|flumistquadrivalent
+1060|connaught_laboratories
+1061|acel imune
+1062|bavarian_nordic_a_s
+1063|meningococcal b_vaccine
+1064|catalent_pharma_solutions_gmbh
+1065|hib_prp_t
+1066|fluzone_intradermal
+1067|dt_adsorbed_vaccine
+1068|meningococcal_c_&_y_hib_(menhibrix)
+1069|merck_ltd
+1070|tuberculin_purified_protein
+1071|engerix-b
+1072|flux_h1n1
+1073|menomune_a_c
+1074|rabies_immune_globulin_[human])_for_intramuscular_administration
+1075|tetanus_immune_globulin_human
+1076|michigan_dept_pub_hlth
+1077|dtipv
+1078|dynavax_technologies_inc
+1079|bsi_co
+1080|parkdale_pharmaceuticals
+1081|6vax_f
+1082|massbiologics
+1083|aventis_pasteur_ltd
+1084|pedvax_hib
+1085|meruvax
+1086|tetanus_vaccine
+1087|meningococcal_b_vaccine
+1088|sclerosis_vaccine
+1089|influenza_(h1n1)_(h1n1_(monovalent)_(medimmune))
+1090|rotavirus
+1091|emergent_biosolutions
+1092|flur4
+1093|Zostavax
+1094|mmr i
+1095|polio_vaccine
+1096|tuberculin purified protein
+1097|ditanrix
+1098|influenza_vaccine
+1099|sclavo_inc
+1100|rubella
+1101|msp_vaccine_company
+1102|hav_measles
+1103|measles_mumps_rubella_varicella_proquad
+1104|diphtheria_tetanus_pertussis_polio
+1105|tetanus and diphtheria toxoids adsorbed
+1106|janssen
+1107|hib_acthib
+1108|td_pertussis_vaccine
+1109|usp
+1110|m_r_vax
+1111|bayer_co_ltd
+1112|h1n1_vaccine
+1113|chiromas
+1114|genhevac_b
+1115|diphtheria_tetanus_pertussis_polio_haemophilus_influenzaetype_b
+1116|rudivax
+1117|janssen_corp
+1118|aptevo_biotherapeutics
+1119|je vax
+1120|miles_laboratories
+1121|pnc10
+1122|M_M_R II
+1123|havrix
+1124|japanese_encephalitis_vaccine_inactivated_adsorbed
+1125|typhim
+1126|smithkline_beecham_gmbh
+1127|diphtheria_tetanus_pertussis_hepatitis_b_polio
+1128|diphtheria_and_tetanus_toxoids_adsorbed
+1129|Vaqta
+1130|baxter
+1131|laiv4
+1132|smithkline_beecham_ltd
+1133|glaxosmithkline_biologicals_sa
+1134|biotest_pharmaceutical
+1135|polysaccharide_diphtheria_toxoid_conjugate_vaccine
+1136|haemophilus_influenzae_type_b
+1137|berna_biotech_ltd
+1138|tdapipv
+1139|wyeth_ltd
+1140|hepagam_b
+1141|hepatitis_a_vaccine_inactivated
+1142|monovacc
+1143|flumadine
+1144|pneumococcal_13_valent_conjugate_vaccine_[diphtheria_crm197_protein]_suspension_for_intramuscular_injection
+1145|valneva_austria_gmbh
+1146|emergent_biosolutions_inc
+1147|catalent_pharma_solutions_inc
+1148|dengue_vaccine
+1149|comvax
+1150|h5n1
+1151|diphtheria and tetanus toxoids and acellular pertussis vaccine adsorbed
+1152|yf-vax
+1153|connaught_ltd
+1154|Ixiaro
+1155|menquadfi
+1156|varicella_virus_vaccine_live
+1157|yellow fevervaccine
+1158|measles_vaccine
+1159|influenza_virus_vaccine_h5n1
+1160|dengue_tetravalent_vaccine
+1161|tripedia
+1162|hepa
+1163|influenza_vaccine_live_intranasal
+1164|imovax_id
+1165|forest_pharmaceuticals
+1166|fluzone_quadrivalent_fluzone_high_dose_quadrivalent_fluzone_intradermal_quadrivalent_fluzone_quadrivalent_southern_hemisphere
+1167|typhoid_live_oral_ty21a_(vivotif)
+1168|measles_mumps_(no_brand_name)
+1169|vaqta
+1170|tetanus toxoid
+1171|fingolimod_capsules
+1172|h1n1
+1173|jevx
+1174|td rix
+1175|hepatitis_b_vaccine
+1176|haemophilus_influenzae_type_b_meningococcal_vaccine
+1177|fsme_immun_vaccine
+1178|meningococcal polysaccharide vaccine
+1179|teva_pharmaceutical
+1180|measlesvaccine
+1181|pertussisvaccine
+1182|tetanus_toxoid_conjugate
+1183|dtphep
+1184|merck_sharp_and_dohme_corporation
+1185|evans_vaccines
+1186|dtap_hepb_ipv_vaccine
+1187|Kinrix
+1188|dtapvaccine
+1189|adenovirusvaccine
+1190|adenovirus
+1191|medimmune_vaccines_inc
+1192|tetanus_toxoid_adsorbed_(no_brand_name)
+1193|dtp_acthib
+1194|lyme
+1195|nabi_hb
+1196|fluzonehigh-dose
+1197|pneumococcal_7_valent_conjugate
+1198|varicella_vaccine
+1199|mumps_(mumpsvax_ii)
+1200|measles_mumps_rubella_mmr_ii
+1201|fluvax
+1202|plague_vaccine
+1203|haemophilusbconjugatevaccine
+1204|parke_davis_co
+1205|fluzone highdose
+1206|mumps_rubella_vaccine
+1207|moraten
+1208|diphtheria and tetanus toxoids
+1209|varilrix
+1210|oseltamivirphosphate
+1211|herpes_zoster
+1212|qiv_quebec
+1213|baxter_healthcare_corporations
+1214|cervarix
+1215|flua3
+1216|dtapipv
+1217|imovax rabies
+1218|haemophilus_b_conjugate_vaccine_tetanus_toxoid_conjugate_for_intramuscular_injection
+1219|tri-immunol
+1220|haemophilus_influenzae_type_b_vaccine
+1221|dt_ipv_vaccine
+1222|polio_virus_oral_(orimune)
