@@ -1,0 +1,15 @@
+first file:  Orig_5
+second file:  a3_5
+failed at 3 0 0
+currently processing  1 0 1 0 0
+failed at 3 1 1
+failed at 3 2 2
+failed at 3 3 3
+failed at 3 4 4
+total documents processed  5 5 5
+docPresentOnlyInFirst:  0
+docPresentOnlyInSecond:  0
+tokenPresentOnlyInFirst:  12
+tokenPresentOnlyInSecond:  0
+tokenPresentInBothSameFreq:  1967
+tokenPresentInBothDiffFreq:  23
